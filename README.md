@@ -39,7 +39,7 @@ I specialize in **infrastructure automation**, **Kubernetes orchestration**, and
 
 Since most of the heavy lifting is performed in the dark, my public stats are limited. As I strongly believe in transparency and clean work ethics, I will provide them anyway. But this is just the tip of the iceberg. I promise you: There is more than meets the eye and a lot more to come in the future.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mxkramb&show_icons=true&theme=radical&hide_border=true)
+[![GitHub stats not showing - known bug](https://github-readme-stats.vercel.app/api?username=mxkramb&show_icons=true&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats/issues/618#issuecomment-1787838491)
 
 ---
 
